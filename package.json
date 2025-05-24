@@ -1,0 +1,38 @@
+{
+  "name": "@strongmove/utilitarians-js",
+  "version": "0.0.1",
+  "description": "Useful utility functions.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongmove/utilitarians-js"
+  },
+  "author": "Strongmove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strongmove/utilitarians-js"
+  },
+  "homepage": "https://github.com/strongmove/utilitarians-js#readme",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "package",
+    "utilitarians-js",
+    "utility"
+  ],
+  "dependencies": {
+    "cockatiel": "^3.2.1",
+    "xstate": "^5.19.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "files": [
+    "dist"
+  ]
+}
