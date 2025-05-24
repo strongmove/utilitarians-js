@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strongmove/utilitarians-js"
+    "url": "git+https://github.com/strongmove/utilitarians-js.git"
   },
   "author": "Strongmove",
   "license": "MIT",
